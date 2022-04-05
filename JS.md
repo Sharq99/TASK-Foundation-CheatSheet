@@ -327,8 +327,8 @@ for(let i=0; i<10; i++){
 function foo() {}
 // the arrow function way
 let foo = (a, b) => a * b;;
-(a, b) => a + b;
-() => a+b;
+(a) => a + 1;
+a => a + 1;
 ```
 
 ### Iteration Methods
